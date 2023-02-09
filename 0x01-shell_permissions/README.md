@@ -18,4 +18,7 @@ The directory contains:
 11-directories_permissions: an executable file that adds execute permission to all subdirectories of the current directory for the owner,          the group owner and all other users
 12-directory_permissions: an executable file that creates a directory with specified permissions
 13-change_group: an executable file that that changes a group owner
-
+100-change_owner_and_group: an executable file that changes owner and group owner recursively for files and subdirectories within a directory
+101-symbolic_link_permissions: an executable file that changes owner and group owner of a symlink
+102-if_only: an executable file that chnage sownership of a file only if the owner is a specified user
+103-star_wars: an executable file that plays Star Wars IV on terminal
