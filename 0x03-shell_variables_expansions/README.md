@@ -25,3 +25,11 @@ The directory contains:
 
 13-print_float: an executable file that prints a number with two decimal places, followed by a new line.
 - The number will be stored in the environment variable NUM.
+
+100-decimal_to_hexadecimal: an executable file that converts a number from base 10 to base 16
+101-rot13: an executable file that encodes and decodes text using the rot13 encryption.
+102-odd: an executable file that prints every other line from the input, starting with the first line.
+103--water_and_stir:  adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+- WATER is in base water
+- STIR is in base stir.
+- The result should be in base bestchol
